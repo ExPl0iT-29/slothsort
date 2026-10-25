@@ -1,0 +1,1 @@
+Sample photo filename placeholder for the SlothSort demo.

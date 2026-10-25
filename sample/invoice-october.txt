@@ -1,0 +1,1 @@
+Sample invoice placeholder for the SlothSort demo.
